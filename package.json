@@ -1,0 +1,28 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "description": "Demo app to use with openshift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phiroict/oc-local-nodejsdemo.git"
+  },
+  "keywords": [
+    "demo",
+    "oc",
+    "test"
+  ],
+  "author": "pr1438",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phiroict/oc-local-nodejsdemo/issues"
+  },
+  "homepage": "https://github.com/phiroict/oc-local-nodejsdemo#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
