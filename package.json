@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/phiroict/oc-local-nodejsdemo#readme",
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.18.2"
   }
 }
